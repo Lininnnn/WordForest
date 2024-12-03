@@ -1,17 +1,18 @@
 # Word Forest
 - Word Forest is a tool for learning English words and phrases. It is designed to help you learn new words and phrases by providing a visual representation of the relationships between them.
-- 制作的简单课程作业
+- 制作的简单大学程序设计课程作业。
   
 ## 简单使用说明
-- 下载Word Forest压缩包或者讲github地址clone到本地下载。
-- 找到output文件夹点击exe文件即可使用，及其方便与轻量化
+- 下载Word Forest压缩包或者将github地址clone到本地下载。
+- 运行python文件main.py。
+- 点击dist文件，找到Word Forest.exe文件，双击打开。
 
 ## 功能介绍
 - 分用户注册登录管理
 - 背诵模式
 - 拼写模式
-- 自定义单词库
-- 打卡功能
+- 单词本管理
+- 每日打卡功能
 - 实时判断正误
 - 错题复习
 - 错题统计
